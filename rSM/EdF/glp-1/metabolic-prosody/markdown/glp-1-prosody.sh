@@ -1,0 +1,1 @@
+pandoc glp-1-prosody.md -o ../articles/glp-1-prosody.html
