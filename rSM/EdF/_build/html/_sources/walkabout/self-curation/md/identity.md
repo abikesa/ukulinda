@@ -69,3 +69,4 @@ Now we land in **mibala**, the Lingala or Kikongo concept for *colors*, but also
 ---
 
 This is not just a map—it’s a choreography. A way of moving through cognition as myth. If you're building a UI or a liturgy, this sequence is emotionally loaded and neurologically grounded. It sings. Let’s paint with it.
+# flick 20250601015909-PesR
