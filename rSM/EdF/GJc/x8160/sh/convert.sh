@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Update this one line only
-FILENAME="vino"
+FILENAME="selfie"
 
 # Auto-generate paths
 INPUT="../md/${FILENAME}.md"
