@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Update this one line only
-FILENAME="formaggio-e-frutta"
+FILENAME="vino"
 
 # Auto-generate paths
 INPUT="../md/${FILENAME}.md"
