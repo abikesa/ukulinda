@@ -123,4 +123,4 @@ To see is to guess. To know is to revise. To live is to loop.
 Bayes is the loop.
 
 
- 
+ # flick 20250602135405-gMF5
