@@ -112,3 +112,4 @@ Do not attempt compilation.
 # flick 20250529004443-En0m
 # flick 20250529014402-HwbY
 # flick 20250530010906-77MF
+# flick 20250602135405-1p2z
