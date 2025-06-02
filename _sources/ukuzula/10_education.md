@@ -111,3 +111,4 @@ JupyterBook modules for:
 # flick 20250529004442-Fols
 # flick 20250530004616-71vP
 # flick 20250530012649-LirO
+# flick 20250602022917-Jjqw
