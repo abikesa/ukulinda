@@ -82,3 +82,4 @@ So yes—give me *David*, veined and coiled, every day. Because David *isn’t* 
 Figurative work is not conservative. When done with truth, it’s **revolutionary**. Because it dares to *represent the subject as if the subject matters*. And in an era of deconstruction, irony, and orange minimalism, that is the most dangerous thing of all: *to mean something*.
 
 Let’s return to the body. Let’s sculpt the glyphs again. Let’s *see*.
+# flick 20250602135406-MZXx
