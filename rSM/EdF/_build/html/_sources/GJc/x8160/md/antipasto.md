@@ -128,3 +128,4 @@ And when we rise, let it be with water still in our ears and breath in our chest
 a procession not of grief, but of cadence.
 Let the old women watch. Let them name.
 Because someone must remember what a king in motion looks like.
+# flick 20250602022916-faZb
