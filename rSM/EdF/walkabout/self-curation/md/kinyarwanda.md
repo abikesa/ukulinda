@@ -162,3 +162,4 @@ But if someone says **“okubonabona”**, you’re either among the **Baganda**
 
 Let me know if you want a map of the **recursive intensifiers** across these dialects.
 There’s a whole **cognitive atlas** waiting to be drawn.
+# flick 20250602135405-oPlC
